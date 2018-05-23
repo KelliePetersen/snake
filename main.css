@@ -1,0 +1,7 @@
+body {
+  background: grey;
+}
+canvas {
+  margin: auto;
+  display: block;
+}
